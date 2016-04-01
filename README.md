@@ -1,6 +1,10 @@
 # ParticleImage
 当鼠标移到图片上时将图片打碎成像素点，然后转换为粒子效果做动画重新组成图片
 
+###演示页面：
+[http://www.qintianxiang.com/](http://www.qintianxiang.com/)
+鼠标移到博客的logo上可以查看效果
+
 基于h5的canvas标签实现，所以不支持悲催的低版本 ie (< 9)
 
 ```
